@@ -30,3 +30,4 @@ If they can go on K road trips, output a single line containing a single integer
 - 0 ≤ Number of museums in each city ≤ 1000
 - Sum of N over all testcases in a file will be ≤ 1.5 * 106
 
+[Solution](Solution1.py)
