@@ -17,3 +17,5 @@ The next N lines specify the roads. Each line consists of three space separated 
 
 ## Output format
 A single line with the integer distance around the shortest possible circular route.
+
+[Solution](Solution2.py)
