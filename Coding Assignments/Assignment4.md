@@ -27,3 +27,5 @@ The first line of the input contains five integers N1, N2, N3, N4, and N5, where
 
 ## Output format
 Your output should be a single line consisting of one integer, the total number of candidates elected to the Town Council.
+
+[Solution](Solution4.py)
