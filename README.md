@@ -1,6 +1,6 @@
 # Design-Analysis-Algorithms
 # Coding Assignments Repository
-
+![Algorithms](https://img.shields.io/badge/Algorithms-blue.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/coding-assignments)](https://github.com/your-username/coding-assignments/issues)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/coding-assignments)](https://github.com/your-username/coding-assignments/stargazers)
