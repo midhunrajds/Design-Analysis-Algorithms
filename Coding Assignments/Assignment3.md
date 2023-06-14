@@ -24,3 +24,5 @@ Number the dragons 1,2,…,D in ascending order of rows. Let mindist(i,j) denote
 
 **Output format:**
 A single integer, the minimum total distance traveled to kill K dragons.
+
+[Solution](Solution3.py)
